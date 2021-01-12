@@ -1,0 +1,10 @@
+{
+    "name": "glaubinix/big",
+    "authors": [
+        {
+            "name": "Stephan Vock",
+            "email": "stephan.vock@gmail.com"
+        }
+    ],
+    "require": {}
+}
